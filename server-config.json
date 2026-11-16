@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "configVersion": 1,
+  "apiProtocol": "https",
+  "apiHost": "www.hamzawy-sat.dynv6.net",
+  "apiPort": 443,
+  "apiPath": "/api",
+  "mediaPath": "/api/store/media"
+}
